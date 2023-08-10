@@ -4,6 +4,6 @@
   <h3 align="center">South African Microbiologist</h3>
 
 <p align="center">
- In the process of completing an honours project investigating the degree of antibiotic susceptibility in <strong>Enterobacter strains</strong>
+ In the process of completing an honours project investigating antibiotic and heavy metal susceptibility in <strong>Enterobacter strains</strong>
 </p>
 </div>
